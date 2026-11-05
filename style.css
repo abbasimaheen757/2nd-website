@@ -197,8 +197,6 @@ html{
 }
 
 
-
-
 body {
   background: linear-gradient(135deg, #0f0728 0%, #1a0b36 40%, #2e1254 100%);
   color: #ffffff;
@@ -329,7 +327,6 @@ features-section {
   }
 }
 
-
 @media screen and (max-width: 900px) {
   .features-container {
     flex-direction: column;
@@ -338,7 +335,6 @@ features-section {
     width: 100%;
   }
 }
-
 
 
 .features h4 {
